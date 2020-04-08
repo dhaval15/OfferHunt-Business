@@ -1,1 +1,1 @@
-# OfferHunt-Buisseness
+# OfferHunt-Business
